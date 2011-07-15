@@ -1,0 +1,29 @@
+---
+abstract: 'Interface to Tube Updates API.'
+author:
+  - 'Mohammad S Anwar <mohammad.anwar@yahoo.com>'
+build_requires:
+  HTTP::Request: 1.40
+  LWP::UserAgent: 2.33
+  Moose: 2.0006
+  Moose::Util::TypeConstraints: 2.0006
+  MooseX::Params::Validate: 0.16
+  Readonly: 0
+  Test::More: 0
+  Test::Warn: 0
+  namespace::clean: 0.20
+configure_requires:
+  Module::Build: 0.36
+generated_by: 'Module::Build version 0.3607'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: WWW-TubeUpdates
+provides:
+  WWW::TubeUpdates:
+    file: lib/WWW/TubeUpdates.pm
+    version: 0.01
+resources:
+  license: http://dev.perl.org/licenses/
+version: 0.01
