@@ -8,7 +8,7 @@ build_requires:
   Moose: 2.0006
   Moose::Util::TypeConstraints: 2.0006
   MooseX::Params::Validate: 0.16
-  Readonly: 0
+  Readonly: 1.03
   Test::More: 0
   Test::Warn: 0
   namespace::clean: 0.20
@@ -23,7 +23,7 @@ name: WWW-TubeUpdates
 provides:
   WWW::TubeUpdates:
     file: lib/WWW/TubeUpdates.pm
-    version: 0.01
+    version: 0.02
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.01
+version: 0.02

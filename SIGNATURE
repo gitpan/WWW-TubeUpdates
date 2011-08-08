@@ -1,5 +1,5 @@
 This file contains message digests of all files listed in MANIFEST,
-signed via the Module::Signature module, version 0.66.
+signed via the Module::Signature module, version 0.68.
 
 To verify the content in this distribution, first make sure you have
 Module::Signature installed, then type:
@@ -14,14 +14,14 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 b794ea979846305ea65cbf2f818532e419374f81 Build.PL
-SHA1 63078fd245c3f5042c6eb0a104631b84fdaa9a6e Changes
+SHA1 c323b092271bdf9bb16502ce507c07201e9366d7 Build.PL
+SHA1 1b112b135e4a6ca9bf234110daf996da2a9f0fc5 Changes
 SHA1 b0147e5869d3634f76822202d16f11ebda21b7ac MANIFEST
 SHA1 7d20e4e840781030202bb045d5ab81b3fd1b68b0 MANIFEST.SKIP
-SHA1 5323a6298925d739a846207ec49b3f77d170d909 META.yml
-SHA1 c4fde2dcd8c49bd02f7cb77bb094dd4e94be105a Makefile.PL
+SHA1 f9e644eb4723146552524149af6ca1df24d042a7 META.yml
+SHA1 9ec4b4ba59721b565f92ba1c029b00def645479f Makefile.PL
 SHA1 7f6ba4d7aeb0000b43844695c7e81a730d1fb9f6 README
-SHA1 a376db88cf6a6ad6292defccb9ef3bda16d19185 lib/WWW/TubeUpdates.pm
+SHA1 ddb92c23e078543965f69be8f992f0ec2fa445d9 lib/WWW/TubeUpdates.pm
 SHA1 790d64431d1c4423d5e5f033361ac11ea4e3655a t/00-load.t
 SHA1 056a30efd4e98660b1440e1ac8b13f2159fd795c t/01-new.t
 SHA1 4a9db052c8a56715e49eee268ad4469fa5f23b40 t/02-getstatus.t
@@ -30,11 +30,11 @@ SHA1 0765c9ff0cc4319f415bb08d0053b7717a8284a2 t/pod.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2.0.14 (MingW32)
 
-iQEcBAEBAgAGBQJOIHQbAAoJEPYcXBXhRYOh77QH/RsMnuu7xCGT9rkBed7Gnx28
-ptK977FcmdGQh+P4z3kI7XnWCyogzdfYTcIngCA84+PPSc5PFelntKKGEUi1sPur
-pm5fmiKyNBBnarsKO04LXtJ9nlHyhGqqF/hmz5uoDuXojcNVVC/58bR9OJEymWgG
-3rrX2OQnojDXfWVlq6bF80veT3bGQdR2G+d0fwir9cwW++TP/34TBvR0yV10lf9s
-n7VpbC/Cq3GVNjhYVFzUQKpRSK+12NuXPoWdwt/40wVGPKY1VYDplfDLLYUD6OZ3
-H81M7TF0jiOZ8f5qeYXC8pZI1KWvzBWPvxSAFBbELsHxd0RIxxR5Jnz+dF5FpyQ=
-=RGZ2
+iQEcBAEBAgAGBQJOP9VnAAoJEPYcXBXhRYOhh1EH/RQSpMl5xE/8aeF8K4OgN7h9
+zqt66m4A6xe3iCAV91TUniNh+LiiEZdAC+SateN/opVtAJ9dFeq+ROCHHNmiJFr1
+YotaATzmrRrsVwJin6nOruRbohEMbDGqJP9VlatPeDpqbgAvHTNshcmsNVfQLFbS
+TzVAABl7GGKujded+FDMmZtmJzM3ayC0n+mcx5pJYz85qyuqfjnNgSeF1WeUrJWC
+SCiuxEb0VIi4u35guojN/ek7npK+GAcRT981HURJvPcyBilkym3OOraIS0QRPFF7
+vUldL/ii11jBBzh1vNl5+wNY4ijX0UHzTGpA0vUCwDuqGtN2o2OmIC8/Nr5pZbg=
+=dcnO
 -----END PGP SIGNATURE-----
